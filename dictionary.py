@@ -1,5 +1,5 @@
 from tkinter import *
-#
+from PyDictionary import PyDictionary
 import customtkinter
 
 customtkinter.set_appearance_mode("dark")
